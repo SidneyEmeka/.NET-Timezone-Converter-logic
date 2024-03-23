@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\bin\Debug\net8.0\.NET-GMT-converter.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\bin\Debug\net8.0\.NET-GMT-converter.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\bin\Debug\net8.0\.NET-GMT-converter.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\bin\Debug\net8.0\.NET-GMT-converter.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\bin\Debug\net8.0\.NET-GMT-converter.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\refint\.NET-GMT-converter.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\.NET-GMT-converter.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-GMT-converter\obj\Debug\net8.0\ref\.NET-GMT-converter.dll
