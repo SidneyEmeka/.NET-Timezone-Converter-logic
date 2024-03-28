@@ -1,4 +1,4 @@
-﻿int[] schedule = { 800, 1200, 1600, 2000 };
+int[] schedule = { 800, 1200, 1600, 2000 };
 DisplayAdjustedTimes(schedule, 6, -6);;
 
 void DisplayAdjustedTimes(int[] times, int currentGMT, int newGMT)
@@ -11,9 +11,7 @@ void DisplayAdjustedTimes(int[] times, int currentGMT, int newGMT)
         diff = 100 * (Math.Abs(newGMT) - Math.Abs(currentGMT));
     
     else
-    {
         diff = 100 * (Math.Abs(newGMT) + Math.Abs(currentGMT));
-    }
 
     for (int i = 0; i < times.Length; i++)
     {
