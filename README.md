@@ -1,5 +1,5 @@
 # Timezone Converter
--This is a logic for timezone conversion. It uses a method that takes three parameters which are;
+-This is a logic for timezone conversion. It uses a method that takes three parameters which are; <br>
 -the time
 -the current timezone and
 -the new timezone difference
