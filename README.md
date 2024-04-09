@@ -4,3 +4,5 @@
 -the current timezone and<br>
 -the new timezone difference <br>
 -Then also called with the three arguments respectively
+
+## Int Methods
