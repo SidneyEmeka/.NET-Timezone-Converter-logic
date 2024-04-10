@@ -5,4 +5,4 @@
 -the new timezone difference <br>
 -Then also called with the three arguments respectively
 
-## Int Methods
+## Void Methods
